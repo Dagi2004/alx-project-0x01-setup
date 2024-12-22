@@ -1,7 +1,7 @@
 const Index: React.FC = () => {
   return (
     <div className="flex justify-center items-center h-screen">
-      <h2 className="text-7xl font-thin">This is Index </h2>
+      <h1>Welcome to our Application!"</h1>
     </div>
   );
 };
