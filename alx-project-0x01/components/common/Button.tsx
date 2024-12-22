@@ -5,4 +5,4 @@ const Button: React.FC = () => {
     </div>
   );
 };
-export default Home;
+export default Button;
